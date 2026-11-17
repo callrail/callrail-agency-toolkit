@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "callrail": {
+      "type": "http",
+      "url": "https://emcee.callrail.com/mcp"
+    }
+  }
+}

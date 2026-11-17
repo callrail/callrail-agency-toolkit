@@ -1,0 +1,14 @@
+{
+  "name": "callrail",
+  "description": "CallRail plugins for Claude.",
+  "owner": {
+    "name": "CallRail",
+    "url": "https://www.callrail.com"
+  },
+  "plugins": [
+    {
+      "name": "callrail-agency-toolkit",
+      "source": "./"
+    }
+  ]
+}
