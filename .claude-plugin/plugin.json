@@ -8,6 +8,7 @@
     "url": "https://www.callrail.com"
   },
   "homepage": "https://www.callrail.com",
+  "privacyPolicyUrl": "https://www.callrail.com/privacy",
   "license": "MIT",
   "keywords": [
     "callrail",
