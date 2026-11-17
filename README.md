@@ -1,10 +1,10 @@
 # CallRail agency toolkit
 
-7 skills that fill gaps agencies raised in the CallRail Switchboard. Each one runs on the CallRail connector (MCP), so the CallRail connector has to be connected in Claude.
+7 skills for agencies that manage clients in CallRail. Each one runs on the CallRail connector (MCP), so the CallRail connector has to be connected in Claude.
 
 ## Install
 
-The plugin includes the CallRail connector (`https://emcee.callrail.com/mcp`). Sign in to CallRail when Claude asks you to connect it.
+The plugin includes the CallRail connector (`https://mcp.callrail.com/mcp`). Sign in to CallRail when Claude asks you to connect it.
 
 Claude Code:
 

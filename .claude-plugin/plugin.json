@@ -2,10 +2,12 @@
   "name": "callrail-agency-toolkit",
   "displayName": "CallRail Agency Toolkit",
   "version": "0.5.1",
-  "description": "Seven CallRail skills for agencies: custom call grading, client report packs, monthly client health checks, weekly change alerts, account inventory and setup, spam sweeps and SMS triage. Built from CallRail Switchboard feature requests.",
+  "description": "Seven CallRail skills for agencies: custom call grading, client report packs, monthly client health checks, weekly change alerts, account inventory and setup, spam sweeps and SMS triage.",
   "author": {
-    "name": "Karina Papanicolaou, CallRail Strategic Partnerships"
+    "name": "CallRail",
+    "url": "https://www.callrail.com"
   },
+  "homepage": "https://www.callrail.com",
   "license": "MIT",
   "keywords": [
     "callrail",

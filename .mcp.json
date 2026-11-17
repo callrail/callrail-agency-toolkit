@@ -2,7 +2,7 @@
   "mcpServers": {
     "callrail": {
       "type": "http",
-      "url": "https://emcee.callrail.com/mcp"
+      "url": "https://mcp.callrail.com/mcp"
     }
   }
 }

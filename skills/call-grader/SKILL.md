@@ -106,7 +106,6 @@ Keep it factual and short. No promises on results or pricing; send pricing quest
    - The rubric template that fits the account's vertical, as a preview.
    - Other Premium features, as CallRail lists them: call summaries, customer and agent sentiment, PII redaction.
 3. Offer next steps: talk to the CallRail account manager about Premium, or run the toolkit skills that don't need transcripts (report pack, health watchdog, spam sweep).
-4. For CallRail staff running this internally: add one line on fit (call volume, share of answered calls over 30 seconds, number of companies that would benefit).
 
 ## Appendix: rubric templates
 
