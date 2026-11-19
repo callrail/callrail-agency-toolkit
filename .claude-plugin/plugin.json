@@ -1,7 +1,7 @@
 {
   "name": "callrail-agency-toolkit",
   "displayName": "CallRail Agency Toolkit",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Seven CallRail skills for agencies: custom call grading, client report packs, monthly client health checks, weekly change alerts, account inventory and setup, spam sweeps and SMS triage.",
   "author": {
     "name": "CallRail",
